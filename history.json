@@ -1,0 +1,46 @@
+[
+    {
+        "date": "2026-02-23 12:46",
+        "player_name": null,
+        "gamemode": "BuildUHC",
+        "weapon": "Sword",
+        "cps": 0.84,
+        "accuracy": 44,
+        "combos": 19,
+        "hits": 22,
+        "rating": 40,
+        "recommendations": [
+            "Increase click speed consistency."
+        ]
+    },
+    {
+        "date": "2026-02-23 12:56",
+        "player_name": "sart51112",
+        "gamemode": "Build UHC",
+        "weapon": "Sword",
+        "cps": 0.84,
+        "accuracy": 44,
+        "combos": 19,
+        "hits": 22,
+        "rating": 40,
+        "recommendations": [
+            "Increase click speed consistency."
+        ]
+    },
+    {
+        "date": "2026-02-23 13:12",
+        "view_mode": "Spectator Mode",
+        "player_name": "sart51112",
+        "gamemode": "Build UHC",
+        "weapon": "Diamond Sword",
+        "gear": "Full Diamond",
+        "cps": 0.84,
+        "accuracy": 44,
+        "combos": 19,
+        "hits": 22,
+        "rating": 40,
+        "recommendations": [
+            "Increase click speed consistency."
+        ]
+    }
+]
